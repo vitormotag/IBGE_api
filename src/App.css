@@ -1,0 +1,7 @@
+.App {
+  margin: 3vw;
+}
+
+.ant-descriptions-item-content {
+  min-width: calc(93vw / 3) !important;
+}
